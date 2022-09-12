@@ -1,7 +1,7 @@
-#include <stdio.h>
+include <stdio.h>
 
 /**
- * * main - Printing in C
+ * * main - Printing
  * *
  * * Return: Always 0 (Successful)
  * */
